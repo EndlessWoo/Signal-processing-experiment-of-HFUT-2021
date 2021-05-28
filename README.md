@@ -24,4 +24,4 @@ EXP4:
 Additional EXP：
 
 The two cosine signals and their sum signals are sampled, first in the time domain, then in the frequency domain, and then through the filter.
-In the second additional experiment, the cosine wave was replaced with a single rectangular pulse.
+In the second additional experiment, the cosine wave was replaced with single rectangular pulse.
