@@ -7,6 +7,7 @@ EXP1:
 3. Calculate the waveform of the periodic rectangular pulse after passing through the RC low-pass filter.
 
 EXP2:
+
 Program to calculate the convolution of two signals.
 
 EXP3:
@@ -21,5 +22,6 @@ EXP4:
 3. Use ideal low-pass filtering to recover the signal from the sampled spectrum.
 
 Additional EXP：
+
 The two cosine signals and their sum signals are sampled, first in the time domain, then in the frequency domain, and then through the filter.
 In the second additional experiment, the cosine wave was replaced with a single rectangular pulse.
