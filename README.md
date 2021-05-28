@@ -1,0 +1,2 @@
+# Signal-processing-experiment-of-HFUT-2021
+  It is composed of four programs running on matlab, which demonstrates some common transformations of signals. Two additional programs were added to demonstrate with two more intuitive functions. Mainly demonstrates how to use matlab to superimpose, convolve, and Fourier transform the signal.Also demonstrated how to do simulated sampling and filter on matlab.
